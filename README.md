@@ -1,8 +1,8 @@
 # VBA-Challenge
 This is VBA-Challenge 'The VBA of Wall Street' activity
 
-# The VBA of Wall Street utilizes VBA scripting to analyze real stock market data.
-# I have attempted the challenges given.
+### The VBA of Wall Street utilizes VBA scripting to analyze real stock market data.
+### I have attempted the challenges given.
 
 ## Tasks:
 * Create a script that will loop through all the stocks for one year and output the following information.
@@ -17,7 +17,7 @@ This is VBA-Challenge 'The VBA of Wall Street' activity
 1. Solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". 
 2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
-### Files used 
+## Files used 
 
 * [Test Data](alphabetical_testing.xlsx) - Used while developing scripts.
 * alphabetical_testing.xlsm - macro enable workbook which contains VBA script
